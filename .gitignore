@@ -1,4 +1,11 @@
 ### IntelliJ IDEA ###
+
+
+*.iml
+.idea/*.xml
+out/**
+
+
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
@@ -29,9 +36,9 @@ bin/
 .DS_Store
 
 
-/*.iml
-/.idea/*.xml
-/out/**
+*.iml
+.idea/*.xml
+out/**
 
 
 
